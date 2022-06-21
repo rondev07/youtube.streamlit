@@ -1,11 +1,4 @@
-from mimetypes import init
-from turtle import right
-from click import style
-from pygments import highlight
 import streamlit as st
-import numpy as np
-import pandas as pd
-from PIL import Image
 import time
 
 st.title('streamlit 入門')
